@@ -230,7 +230,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                             <div>
                               <div class="media-left">
                                   <div>
-                                      <img src="images/resarcharea/cognitive.jpg">
+                                      <img src="images/resarcharea/ubiquitous.png">
                                   </div>
                               </div>
                               <div>
