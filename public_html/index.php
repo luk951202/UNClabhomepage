@@ -150,7 +150,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                               </div>
                               <div>
                                   <h4 class="media-heading"> Visible Lighting Communication (VLC) </h4>
-                              </div>
+                                </div>
                             </div>
                         </div>
 
@@ -158,17 +158,11 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                             <div>
                               <div class="media-left">
                                   <div>
-                                      <img src="images/resarcharea/routing.png">
+                                      <img src="images/resarcharea/mobile1.png">
                                   </div>
                               </div>
                               <div>
-                                  <h4 class="media-heading">Routing & Multicast</h4>
-                                  <ul class="lsp">
-                                    <li><p>- QoS Routing & Multicast: Reliable Routing & Multicast, Power Saving Routing & Multicast</p></li>
-                                    <li><p>- Network Coding</p></li>
-                                    <li><p>- Location-based Services</p></li>
-                                    <li><p>- Clustering & Mobility Management</p></li>
-                                  </ul>
+                                  <h4 class="media-heading">Mobile Cloud Computing</h4>
                               </div>
                             </div>
                         </div>
@@ -176,18 +170,11 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                             <div>
                               <div class="media-left">
                                   <div>
-                                      <img src="images/resarcharea/cooperative.png">
+                                      <img src="images/resarcharea/SPGM.png">
                                   </div>
                               </div>
                               <div>
-                                  <h4 class="media-heading">Cooperative Communications & Cross-Layer Technology</h4>
-                                  <ul class="lsp">
-                                    <li><p>- Efficient Transmission  using Cooperative Transmission</p></li>
-                                    <li><p>- Resource Optimization using Cross-Layer Technology</p></li>
-                                    <li><p>- Relay Selection</p></li>
-                                    <li><p>- Outage Probability Modeling</p></li>
-                                    <li><p>- Cognitive Radio Networks</p></li>
-                                  </ul>
+                                  <h4 class="media-heading">Solar Power Generation Management</h4>
                               </div>
                             </div>
                         </div>
@@ -195,17 +182,11 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                             <div>
                               <div class="media-left">
                                   <div>
-                                      <img src="images/resarcharea/ubiquitous.png">
+                                      <img src="images/resarcharea/CRTP.png">
                                   </div>
                               </div>
                               <div>
-                                  <h4 class="media-heading">Ubiquitous Healthcare & Bio Information Communications</h4>
-                                  <ul class="lsp">
-                                    <li><p>- Bio Sensor Networks based Healthcare Monitoring & Tel Medicine</p></li>
-                                    <li><p>- Bio Sensor Networks based U-Animal Farm Monitoring & Tel Medicine</p></li>
-                                    <li><p>- Bio Sensor Networks based Marine Monitoring Services</p></li>
-                                    <li><p>- Bio Sensor Networks based Natural Environments Monitoring Services</p></li>
-                                  </ul>
+                                  <h4 class="media-heading">Cooperative Relay Transmissions and Routing Protocols for Future Mobile Wireless Networks</h4>
                               </div>
                             </div>
                         </div>
@@ -213,34 +194,11 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                             <div>
                               <div class="media-left">
                                   <div>
-                                      <img src="images/resarcharea/vlc.jpeg">
+                                      <img src="images/resarcharea/CRTC.jpeg">
                                   </div>
                               </div>
                               <div>
-                                  <h4 class="media-heading">Visible Light Communications(VLC)</h4>
-                                  <ul class="lsp">
-                                    <li><p>- Indoor and Outdoor VLC-based Ubiquitous Networks</p></li>
-                                    <li><p>- Modulation Techniques in Visible Light Communications</p></li>
-                                    <li><p>- VLC-based Applications: Underwater Communications, Aviation, Wireles Mobile Connectivity, Traffic Lights, Hospital & Healthcare</p></li>
-                                  </ul>
-                              </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-lg-4 col-xs-12">
-                            <div>
-                              <div class="media-left">
-                                  <div>
-                                      <img src="images/resarcharea/ubiquitous.png">
-                                  </div>
-                              </div>
-                              <div>
-                                  <h4 class="media-heading">Cognitive Radio Networks</h4>
-                                  <ul class="lsp">
-                                    <li><p>- Spectrum Sensing</p></li>
-                                    <li><p>- Route & Network Stabillity in Cognitive Radio Ad-Hoc Networks(CRAHNs)</p></li>
-                                    <li><p>- Cooperative Transmission & Routing in CRAHNs</p></li>
-                                    <li><p>- Throughput</p></li>
-                                  </ul>
+                                  <h4 class="media-heading">Cooperative Relay Transmissions and Cross-Layer Routing Protocols for Future Mobile Wireless Networks and Cognitive Radio Networks</h4>
                               </div>
                             </div>
                         </div>
