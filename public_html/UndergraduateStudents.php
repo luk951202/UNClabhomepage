@@ -103,24 +103,6 @@ Header Section Start
             <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
-                        <img src="images/team/hyukchun.jpg" class="team-pic" alt="">
-                    </div>
-                    <h3 class="team_name">Hyukchun Oh</h3>
-                    <p class="team_designation">4th year</p>
-                    <p class="team_text"> - Visible Light Communication
-                    <br>- Internet of Things
-                    <br>- Mobile Cloud
-                    </p>
-                    <p>
-                        <i class="ion-android-mail"></i>  gurcjs2005@gmail.com
-                    </p>
-
-                </div>
-            </div>
-            <div class="col-md-1"></div>
-            <div class="col-sm-3">
-                <div class="team-member   "  >
-                    <div class="team-img">
                         <img src="images/team/ilwon.jpg" class="team-pic" alt="">
                     </div>
                     <h3 class="team_name">Ilwon Choi </h3>
@@ -131,6 +113,7 @@ Header Section Start
                     <p>
                         <i class="ion-android-mail"></i>  dlfdnjs30@gmail.com
                     </p>
+
                 </div>
             </div>
             <div class="col-md-1"></div>
@@ -149,11 +132,7 @@ Header Section Start
                     </p>
                 </div>
             </div>
-        </div>
-
-
-
-        <div class="row">
+            <div class="col-md-1"></div>
             <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
@@ -168,10 +147,13 @@ Header Section Start
                     <p>
                         <i class="ion-android-mail"></i>  opiximeo@gmail.com
                     </p>
-
                 </div>
             </div>
-            <div class="col-md-1"></div>
+        </div>
+
+
+
+        <div class="row">
             <div class="col-sm-3">
                 <div class="team-member   "  >
                     <div class="team-img">
@@ -184,6 +166,23 @@ Header Section Start
                         - Mobile Cloud</p>
                     <p>
                         <i class="ion-android-mail"></i>  whgksthf702@naver.com
+                    </p>
+
+                </div>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-sm-3">
+                <div class="team-member   "  >
+                    <div class="team-img">
+                        <img src="images/team/soobin.jpg" class="team-pic" alt="">
+                    </div>
+                    <h3 class="team_name">Soobin Park </h3>
+                    <p class="team_designation">3rd year</p>
+                    <p class="team_text">- Visible light Communication<br>
+                        - Internet of Things<br>
+                        - mobile Cloud</p>
+                    <p>
+                        <i class="ion-android-mail"></i>  soobin950@gmail.com
                     </p>
                 </div>
             </div>
