@@ -106,7 +106,7 @@ Header Section Start
                         <img src="images/team/ilwon.jpg" class="team-pic" alt="">
                     </div>
                     <h3 class="team_name">Ilwon Choi </h3>
-                    <p class="team_designation">3rd year</p>
+                    <p class="team_designation">4rd year</p>
                     <p class="team_text">- Visible Light Communication<br>
                         - Internet of Things<br>
                         - Mobile Cloud</p>
@@ -123,7 +123,7 @@ Header Section Start
                         <img src="images/team/mrkim.jpg" class="team-pic" alt="">
                     </div>
                     <h3 class="team_name">Kihoon Kim </h3>
-                    <p class="team_designation">3rd year</p>
+                    <p class="team_designation">4rd year</p>
                     <p class="team_text">- Visible light Communication<br>
                         - Internet of Things<br>
                         - mobile Cloud</p>
@@ -139,7 +139,7 @@ Header Section Start
                         <img src="images/team/jaejin.jpg" class="team-pic" alt="">
                     </div>
                     <h3 class="team_name">Jaejin Lee</h3>
-                    <p class="team_designation">3rd year</p>
+                    <p class="team_designation">4rd year</p>
                     <p class="team_text"> - Visible Light Communication
                     <br>- Internet of Things
                     <br>- Big data
@@ -160,7 +160,7 @@ Header Section Start
                         <img src="images/team/hansol.jpg" class="team-pic" alt="">
                     </div>
                     <h3 class="team_name">Hansol Cho </h3>
-                    <p class="team_designation">3rd year</p>
+                    <p class="team_designation">4rd year</p>
                     <p class="team_text">- Visible Light Communication<br>
                         - Internet of Things<br>
                         - Mobile Cloud</p>
@@ -177,23 +177,7 @@ Header Section Start
                         <img src="images/team/soobin.jpg" class="team-pic" alt="">
                     </div>
                     <h3 class="team_name">Soobin Park </h3>
-                    <p class="team_designation">3rd year</p>
-                    <p class="team_text">- Visible light Communication<br>
-                        - Internet of Things<br>
-                        - mobile Cloud</p>
-                    <p>
-                        <i class="ion-android-mail"></i>  soobin950@gmail.com
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-1"></div>
-            <div class="col-sm-3">
-                <div class="team-member   "  >
-                    <div class="team-img">
-                        <img src="images/team/soobin.jpg" class="team-pic" alt="">
-                    </div>
-                    <h3 class="team_name">Soobin Park </h3>
-                    <p class="team_designation">3rd year</p>
+                    <p class="team_designation">4rd year</p>
                     <p class="team_text">- Visible light Communication<br>
                         - Internet of Things<br>
                         - mobile Cloud</p>
