@@ -100,6 +100,19 @@ Header Section Start
         <div class="row">
             <div class="col-md-3">
                 <div class="team-member  " >
+                    <h3 class="team_name">Nhat-Quang Le</h3>
+                    <p class="team_designation">MS</p>
+                    <p class="team_text">- Wireless energy harvesting
+                                <br>- physical layer security</p>
+                    <p>
+                        <i class="ion-android-mail">lenhatquangsg@gmail.com</i>
+                    </p>
+                </div>
+            </div>
+
+
+            <div class="col-md-3">
+                <div class="team-member  " >
                     <h3 class="team_name">심규현</h3>
                     <p class="team_designation">MS</p>
                     <p class="team_text">(주)오로스 테크놀로지</p>
@@ -131,6 +144,9 @@ Header Section Start
                 </div>
             </div>
 
+        </div>
+        <div class="row">
+
             <div class="col-md-3">
                 <div class="team-member  "  >
                     <h3 class="team_name">조승완</h3>
@@ -141,9 +157,6 @@ Header Section Start
                     </p>
                 </div>
             </div>
-
-        </div>
-        <div class="row">
 
             <div class="col-md-3">
                 <div class="team-member  "  >
@@ -177,6 +190,11 @@ Header Section Start
                     </p>
                 </div>
             </div>
+
+        </div>
+        <div class="row">
+
+            
             <div class="col-md-3">
                 <div class="team-member  "  >
                     <h3 class="team_name">이주상</h3>
@@ -187,9 +205,6 @@ Header Section Start
                     </p>
                 </div>
             </div>
-
-        </div>
-        <div class="row">
 
             <div class="col-md-3">
                 <div class="team-member  "  >
@@ -223,6 +238,8 @@ Header Section Start
                 </div>
             </div>
 
+        </div>
+        <div class="row">        
 
             <div class="col-md-3">
                 <div class="team-member  "  >
@@ -234,9 +251,6 @@ Header Section Start
                     </p>
                 </div>
             </div>
-
-        </div>
-        <div class="row">
 
             <div class="col-md-3">
                 <div class="team-member  "  >
@@ -272,6 +286,10 @@ Header Section Start
                     </p>
                 </div>
             </div>
+
+        </div>
+        <div class="row">
+
             <div class="col-md-3">
                 <div class="team-member  "  >
                     <h3 class="team_name">윤은섭</h3>
@@ -282,9 +300,6 @@ Header Section Start
                     </p>
                 </div>
             </div>
-
-        </div>
-        <div class="row">
 
             <div class="col-md-3">
                 <div class="team-member  "  >
