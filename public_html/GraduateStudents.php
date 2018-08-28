@@ -174,14 +174,16 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/templete/common.php';
                     <div class="col-sm-3">
                         <div class="team-member   "   >
                             <div class="team-img">
-                                <img src="images/team/Quang.jpg" class="team-pic" alt="">
+                                <img src="images/team/hyukchun.jpg" class="team-pic" alt="">
                             </div>
-                            <h3 class="team_name">Nhat-Quang Le </h3>
-                            <p class="team_designation">4 Semester</p>
-                            <p class="team_text">- Wireless energy harvesting
-                                <br>- physical layer security</p>
+                            <h3 class="team_name">Hyukchun Oh</h3>
+                            <p class="team_designation">4th year</p>
+                            <p class="team_text"> - Visible Light Communication
+                            <br>- Internet of Things
+                            <br>- Mobile Cloud
+                            </p>
                             <p>
-                                <i class="ion-android-mail"></i>  lenhatquangsg@gmail.com
+                                <i class="ion-android-mail"></i>  gurcjs2005@gmail.com
                             </p>
                         </div>
                     </div>
